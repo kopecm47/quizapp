@@ -1,0 +1,21 @@
+html{
+	background-image: url(https://unsplash.com/photos/CuFYW1c97w8/download);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-repeat: no-repeat;
+}
+#container{
+
+}
+body{
+	font-family: "Comfortaa", cursive;
+	text-align: center;
+}
+h1{
+	font-size: 3em;
+
+}
+h2{
+
+}
